@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elshaarawy</h1>
 <h3 align="center">I'm a software engineer with experience in backend development and research. I enjoy building systems and working on projects that create real impact.</h3>
 
-👨‍💻 Here are some of the key projects I've worked on:
+<br/>
+
+<h3 align="left">👨‍💻 Here are some of the key projects I've worked on:</h3>
 
 [Facebook Network Graph Analysis](https://github.com/eshaarawy/Facebook-Network-Graph-Analysis)
 
 [Arabic Music Classification and Generation using Deep Learning](https://github.com/eshaarawy/Ai-Arabic-Music-)
 
 [Relation-Oriented Faceted Search over Knowledge Bases](https://github.com/eshaarawy/Relation-Oriented-Faceted-Search-over-Knowledge-Bases)
+
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 
