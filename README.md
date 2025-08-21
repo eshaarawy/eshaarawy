@@ -3,13 +3,16 @@
 
 <br/>
 
+
 <h3 align="left">👨‍💻 Here are some of the key projects I've worked on:</h3>
 
-[Facebook Network Graph Analysis](https://github.com/eshaarawy/Facebook-Network-Graph-Analysis)
+[AI Driven Electronic Health Records System](https://github.com/eshaarawy/AI-Driven-Electronic-Health-Records-System)
+
+[Relation-Oriented Faceted Search over Knowledge Bases](https://github.com/eshaarawy/Relation-Oriented-Faceted-Search-over-Knowledge-Bases)
 
 [Arabic Music Classification and Generation using Deep Learning](https://github.com/eshaarawy/Ai-Arabic-Music-)
 
-[Relation-Oriented Faceted Search over Knowledge Bases](https://github.com/eshaarawy/Relation-Oriented-Faceted-Search-over-Knowledge-Bases)
+[Facebook Network Graph Analysis](https://github.com/eshaarawy/Facebook-Network-Graph-Analysis)
 
 <br/>
 
